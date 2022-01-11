@@ -19,14 +19,12 @@
   },
   "homepage": "https://github.com/waittingboy/ERC721-0.6.2#readme",
   "dependencies": {
-    "@ganache/filecoin": "^0.1.5",
-    "@openzeppelin/contracts": "3.4.0",
-    "dotenv": "^10.0.0",
-    "ganache": "7.0.0-filecoin.6"
+    "@openzeppelin/contracts": "^3.4.0",
+    "dotenv": "^11.0.0"
   },
   "devDependencies": {
-    "@truffle/hdwallet-provider": "^1.4.1",
-    "truffle": "^5.3.14",
-    "truffle-plugin-verify": "^0.5.10"
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "truffle": "^5.4.28",
+    "truffle-plugin-verify": "^0.5.20"
   }
 }
